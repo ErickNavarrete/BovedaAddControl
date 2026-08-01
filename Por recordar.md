@@ -1,6 +1,10 @@
 ---
-tipo: referencia
-tags: [referencia, sql, colores]
+tipo: nota-diaria
+tags:
+  - referencia
+  - sql
+  - colores
+fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## SQL Tips
