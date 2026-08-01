@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## AddControlNucleo Avance Obra [Dev-Demo-Produccion]
 ``` SQL
 ALTER TABLE "AddControlNucleoAvanceObraOrigenes"

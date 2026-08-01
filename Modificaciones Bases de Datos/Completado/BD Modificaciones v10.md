@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Frentes [Dev]
 ``` SQL
 CREATE UNIQUE INDEX idx_frentes_centrocosto_codigo

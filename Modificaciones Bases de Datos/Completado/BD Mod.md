@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Presupuestos Matriz [Dev-Demo-Producción]
 
 ``` SQL

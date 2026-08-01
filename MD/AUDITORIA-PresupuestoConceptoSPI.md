@@ -1,3 +1,9 @@
+---
+tipo: auditoria-codigo
+estado: activo
+tags: [presupuestos, auditoria, backend]
+---
+
 # Auditoría: `PresupuestoConceptoProgramacionService.GetPresupuestoConceptoSPIResumen`
 
 ## Contexto

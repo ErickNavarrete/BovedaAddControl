@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ### Bitácora Filtro Fechas
 
 fn_bitacoracentrocosto_read_paged

@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: activo
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Subcontratos [DevFeature]
 ``` SQL
 CREATE OR REPLACE FUNCTION public.fn_explosionessubcontratos_read_paged(

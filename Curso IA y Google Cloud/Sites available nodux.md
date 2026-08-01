@@ -1,3 +1,10 @@
+---
+tipo: referencia
+tags: [nginx, nodux, infraestructura]
+---
+
+Relacionado: [[Docker]], [[Notas]]
+
 sudo nano /etc/nginx/sites-available/nodux
 sudo nginx -t && sudo systemctl reload nginx
 

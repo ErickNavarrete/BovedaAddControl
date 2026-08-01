@@ -1,3 +1,11 @@
+---
+tipo: auditoria-codigo
+estado: activo
+tags: [insumos, presupuestos, auditoria, backend]
+---
+
+Relacionado: [[Duplicados Insumos]], [[Script elimina duplicados Insumos]]
+
 # Auditoría — `PostExplosionInsumos` (`API/Controllers/Presupuestos/PresupuestoExplosionInsumosController.cs`)
 
 ## Contexto

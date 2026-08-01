@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: activo
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Presupuestos Partidad [Dev-Demo-Producción]
 ``` SQL
 ALTER TABLE "PresupuestosPartidas"

@@ -1,3 +1,8 @@
+---
+tipo: referencia
+tags: [referencia, sql, colores]
+---
+
 ## SQL Tips
 
 ``` SQL

@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Contacto Documentos [Dev-Demo-Producción]
 ``` SQL
 ALTER TABLE "ContactosDocumentos" ADD COLUMN "Url" VARCHAR(450) NOT NULL DEFAULT '';

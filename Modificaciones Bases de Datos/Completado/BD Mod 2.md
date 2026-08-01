@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Permisos Empresas [Dev-Demo-Producción]
 ``` SQL
 INSERT INTO public."ModulosAcciones" ("IdModulo","Nombre","Tag","IdUsuarioRegistro","IdUsuarioModifico") VALUES (3,'Descuentos, retenciones o adicionales','modulo_empresas_desc_ret_ad',1,1);

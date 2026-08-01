@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Contactos [Dev-Demo-Producción]
 ``` SQL
 -- ETAPAS CONTACTOS

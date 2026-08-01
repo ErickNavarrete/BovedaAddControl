@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ## Centro Costo Params [Dev-Demo-Producción]
 ``` SQL
 ALTER TABLE "CentrosCostosParamsAddControlNucleo"

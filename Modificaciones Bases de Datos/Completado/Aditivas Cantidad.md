@@ -1,3 +1,11 @@
+---
+tipo: changelog-bd
+estado: completado
+tags: [bd, postgresql]
+---
+
+Índice: [[Índice]]
+
 ``` SQL
 CREATE OR REPLACE FUNCTION fn_cantidad_aditiva(
     p_idInsumo              INTEGER,

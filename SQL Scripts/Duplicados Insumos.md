@@ -1,3 +1,8 @@
+---
+tipo: script-sql
+tags: [sql, insumos, mantenimiento]
+---
+
 ## Elimina duplicados
 
 Código Insumo

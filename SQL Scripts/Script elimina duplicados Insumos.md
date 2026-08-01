@@ -1,3 +1,8 @@
+---
+tipo: script-sql
+tags: [sql, insumos, mantenimiento, destructivo]
+---
+
 ``` SQL
 -- =============================================================
 -- SCRIPT: Eliminación de registros duplicados en "Insumos"

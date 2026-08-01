@@ -1,3 +1,10 @@
+---
+tipo: referencia
+tags: [docker, nodux, infraestructura]
+---
+
+Relacionado: [[Notas]], [[Sites available nodux]]
+
 docker build -t nodux-front .
 docker rm -f nodux-front
 docker run -d --name nodux-front --restart always -p 4200:80 nodux-front

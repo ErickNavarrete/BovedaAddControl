@@ -1,3 +1,8 @@
+---
+tipo: script-sql
+tags: [sql, mantenimiento, destructivo]
+---
+
 delete from "CentrosCostosExistenciasInsumos";
 
 --SALIDAS--

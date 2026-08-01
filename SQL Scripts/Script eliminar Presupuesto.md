@@ -1,3 +1,8 @@
+---
+tipo: script-sql
+tags: [sql, presupuestos, destructivo]
+---
+
 ## Script
 ``` SQL
 DO $$
