@@ -1,0 +1,13 @@
+# Configuración local de Obsidian (plugins, temas, workspace, duplicados de sync)
+.obsidian/
+
+# Notas con credenciales/secretos - no debe subirse a git
+Seguridad/
+
+# Papelera de Obsidian
+.trash/
+
+# Cruft de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
