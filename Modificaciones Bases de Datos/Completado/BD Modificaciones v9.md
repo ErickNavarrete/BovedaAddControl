@@ -1,7 +1,9 @@
 ---
 tipo: changelog-bd
-estado: activo
-tags: [bd, postgresql]
+estado: completado
+tags:
+  - bd
+  - postgresql
 ---
 
 Índice: [[Índice]]

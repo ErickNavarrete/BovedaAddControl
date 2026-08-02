@@ -15,7 +15,3 @@ FROM "Modificaciones Bases de Datos"
 WHERE tipo = "changelog-bd"
 SORT estado ASC, file.name ASC
 ```
-
-## Nota sobre el orden
-
-Los nombres `vN` no siguen un orden cronológico estrictamente confiable entre sí (hay dos series distintas: "BD Modificaciones vN" y "BD Mod"/"Mod vN"/"Modificaciones vN"). Cada sección dentro de cada archivo indica su propio estado de despliegue entre corchetes (ej. `[Dev-Demo-Producción]`, `[DevFeature]`, `[Dev]`, `[Listo]`) — esa etiqueta es la fuente de verdad sobre si un cambio ya se aplicó en producción, no el número de versión del archivo.

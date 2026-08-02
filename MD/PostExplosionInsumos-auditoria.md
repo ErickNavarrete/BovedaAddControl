@@ -1,7 +1,11 @@
 ---
 tipo: auditoria-codigo
-estado: activo
-tags: [insumos, presupuestos, auditoria, backend]
+estado: completado
+tags:
+  - insumos
+  - presupuestos
+  - auditoria
+  - backend
 ---
 
 Relacionado: [[Duplicados Insumos]], [[Script elimina duplicados Insumos]]
